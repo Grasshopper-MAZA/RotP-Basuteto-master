@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bastet:block/bastet_outlet" },
+    "facing=south": { "model": "bastet:block/bastet_outlet" },
+    "facing=west":  { "model": "bastet:block/bastet_outlet" },
+    "facing=east":  { "model": "bastet:block/bastet_outlet" }
+  }
+}

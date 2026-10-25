@@ -1,0 +1,7 @@
+{
+  "entity.bastet.bastet": "Бастет",
+  "stand.bastet.bastet": "Бастет",
+  "action.bastet.bastet_place_outlet": "Установить розетку",
+  "action.bastet.bastet_remove_outlet": "Убрать розетку",
+  "block.bastet.bastet_outlet": "Розетка Бастет"
+}

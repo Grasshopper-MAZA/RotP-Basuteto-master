@@ -1,0 +1,7 @@
+{
+  "entity.bastet.bastet": "巴斯特女神",
+  "stand.bastet.bastet": "巴斯特女神",
+  "action.bastet.bastet_place_outlet": "放置插头",
+  "action.bastet.bastet_remove_outlet": "取消插头",
+  "block.bastet.bastet_outlet": "巴斯特插头"
+}

@@ -1,0 +1,7 @@
+{
+  "entity.bastet.bastet": "Bastet",
+  "stand.bastet.bastet": "Bastet",
+  "action.bastet.bastet_place_outlet": "Place Outlet",
+  "action.bastet.bastet_remove_outlet": "Remove Outlet",
+  "block.bastet.bastet_outlet": "Bastet Outlet"
+}

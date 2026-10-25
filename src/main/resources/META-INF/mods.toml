@@ -1,0 +1,51 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU GPL v3.0"
+issueTrackerURL="mailto:3848394903@qq.com"
+
+[[mods]]
+modId="bastet"
+version="${file.jarVersion}"
+displayName="Bastet Stand"
+logoFile="bastet.png"
+logoBlur=true
+authors="Grasshopper"
+credits="Grasshopper (Author),  | Support: https://ifdian.net/a/mazaNB666"
+description='''
+Bastet - A JoJo Stand addon by Grasshopper.
+
+This addon adds the Bastet Stand to Ripples of the Past.
+
+Support me on Afdian:
+https://ifdian.net/a/mazaNB666
+
+Contact: 3848394903@qq.com
+'''
+
+[[dependencies.bastet]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.bastet]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5,1.17)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.bastet]]
+modId="jojo"
+mandatory=true
+versionRange="[0.2,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.bastet]]
+modId="geckolib3"
+mandatory=true
+versionRange="[3.0.66,)"
+ordering="AFTER"
+side="BOTH"
